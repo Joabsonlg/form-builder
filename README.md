@@ -9,6 +9,7 @@ O PDF Builder SaaS é uma solução completa para criação, edição e gerencia
 ## Tecnologias
 
 ### Frontend
+
 - Next.js 13+ (App Router)
 - TypeScript
 - TailwindCSS
@@ -18,6 +19,7 @@ O PDF Builder SaaS é uma solução completa para criação, edição e gerencia
 - React Hook Form + Zod
 
 ### Backend (Em desenvolvimento)
+
 - Spring Boot 3
 - PostgreSQL
 - Redis
@@ -27,23 +29,27 @@ O PDF Builder SaaS é uma solução completa para criação, edição e gerencia
 ## Funcionalidades Principais
 
 - [ ] Sistema de Autenticação e Autorização
+
   - Login/Registro
   - Recuperação de senha
   - Perfis de usuário
 
 - [ ] Editor de Templates
+
   - Interface drag-and-drop
   - Componentes reutilizáveis
   - Variáveis dinâmicas
   - Preview em tempo real
 
 - [ ] Geração de PDFs
+
   - Múltiplos formatos
   - Personalização avançada
   - Processamento em lote
   - Download/Compartilhamento
 
 - [ ] Dashboard
+
   - Métricas de uso
   - Histórico de documentos
   - Gestão de templates
